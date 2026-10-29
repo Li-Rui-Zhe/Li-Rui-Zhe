@@ -11,6 +11,8 @@
 
 [✍️ 我的博客 · Rick 的小宇宙](https://blog.liruizhe.cc/)
 
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Li-Rui-Zhe/badge.svg)](https://hub.xerj.org/contributors/Li-Rui-Zhe)
+
 </div>
 
 ### 嗨，我是 Rick 👋
